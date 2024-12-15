@@ -73,6 +73,7 @@ body {
 
 .form-text1-2 {
     font-weight: 400;
+    margin-left: 5px;
 }
 
 .box {
@@ -140,6 +141,14 @@ body {
     text-align: right;
     color: #FF7979;
 }
+
+/* .image {
+    width: 24px;
+    height: 24px;
+    position: relative;
+    z-index: 2;
+} */
+
 
 @media (max-width: 947px) {
     .container {
