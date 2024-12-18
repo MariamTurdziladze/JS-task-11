@@ -90,6 +90,7 @@ body {
 .boxes {
     height: 56px;
     padding-left: 15px;
+    padding-right: 60px;
     border: 1px solid #DEDEDE;
     border-radius: 5px;
     font-size: 14px;
@@ -142,12 +143,6 @@ body {
     color: #FF7979;
 }
 
-/* .image {
-    width: 24px;
-    height: 24px;
-    position: relative;
-    z-index: 2;
-} */
 
 
 @media (max-width: 947px) {
